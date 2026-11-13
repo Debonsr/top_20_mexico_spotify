@@ -1,0 +1,131 @@
+id_cancion,cancion,artista_principal,artistas_invitados,pais_artista,tipo_artista,sexo_artista,genero_musical,fecha_lanzamiento,anio_lanzamiento,duracion_segundos,bpm,bailabilidad,energia,streams_totales_millones,porcentaje_streams_mexico,streams_mexico_millones,posicion_maxima_mx,semanas_top50_mx,es_colaboracion,contenido_explicito,origen_mexicano,viral_tiktok
+1,El Perdón,Nicky Jam,Enrique Iglesias,Puerto Rico,Solista,Masculino,Reguetón,2015-02-20,2015,205,90,0.71,0.80,1200,14,168.0,2,34,TRUE,FALSE,FALSE,FALSE
+2,Hasta la Raíz,Natalia Lafourcade,Ninguno,México,Solista,Femenino,Pop latino,2015-03-02,2015,214,86,0.58,0.52,260,48,124.8,9,22,FALSE,FALSE,TRUE,FALSE
+3,Borró Cassette,Maluma,Ninguno,Colombia,Solista,Masculino,Reguetón,2015-05-15,2015,214,94,0.78,0.73,420,16,67.2,7,18,FALSE,FALSE,FALSE,FALSE
+4,Ginza,J Balvin,Ninguno,Colombia,Solista,Masculino,Reguetón,2015-07-17,2015,172,102,0.82,0.77,640,12,76.8,5,20,FALSE,FALSE,FALSE,FALSE
+5,Tu Falta de Querer,Mon Laferte,Ninguno,Chile,Solista,Femenino,Pop latino,2015-09-11,2015,279,120,0.45,0.48,310,52,161.2,6,28,FALSE,FALSE,FALSE,FALSE
+6,Sorry,Justin Bieber,Ninguno,Canadá,Solista,Masculino,Pop en inglés,2015-10-22,2015,200,100,0.65,0.76,2300,4,92.0,4,21,FALSE,FALSE,FALSE,FALSE
+7,Hello,Adele,Ninguno,Reino Unido,Solista,Femenino,Pop en inglés,2015-10-23,2015,295,79,0.48,0.45,1350,3,40.5,11,12,FALSE,FALSE,FALSE,FALSE
+8,Hasta el Amanecer,Nicky Jam,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2016-01-15,2016,211,90,0.75,0.70,610,15,91.5,4,19,FALSE,FALSE,FALSE,FALSE
+9,Cheap Thrills,Sia,Sean Paul,Australia,Solista,Femenino,Pop en inglés,2016-02-11,2016,211,90,0.59,0.70,2050,4,82.0,8,16,TRUE,FALSE,FALSE,FALSE
+10,Duele el Corazón,Enrique Iglesias,Wisin,España,Solista,Masculino,Pop latino,2016-04-15,2016,200,91,0.72,0.89,620,13,80.6,3,22,TRUE,FALSE,FALSE,FALSE
+11,La Bicicleta,Carlos Vives,Shakira,Colombia,Solista,Masculino,Tropical,2016-05-27,2016,228,180,0.74,0.82,520,14,72.8,5,20,TRUE,FALSE,FALSE,FALSE
+12,Traicionera,Sebastián Yatra,Ninguno,Colombia,Solista,Masculino,Pop latino,2016-05-06,2016,194,92,0.73,0.68,430,18,77.4,6,18,FALSE,FALSE,FALSE,FALSE
+13,Me Rehúso,Danny Ocean,Ninguno,Venezuela,Solista,Masculino,Pop latino,2016-08-05,2016,205,104,0.74,0.79,1650,12,198.0,3,41,FALSE,FALSE,FALSE,FALSE
+14,Cómo Te Atreves,Morat,Ninguno,Colombia,Grupo,Masculino,Pop latino,2016-06-10,2016,205,98,0.66,0.71,310,26,80.6,12,14,FALSE,FALSE,FALSE,FALSE
+15,Háblame de Ti,Banda MS,Ninguno,México,Grupo,Masculino,Regional mexicano,2016-02-19,2016,220,128,0.58,0.55,280,64,179.2,10,26,FALSE,FALSE,TRUE,FALSE
+16,Que Lo Nuestro Se Quede Nuestro,Carlos Rivera,Ninguno,México,Solista,Masculino,Pop latino,2016-09-23,2016,222,70,0.47,0.44,330,58,191.4,8,30,FALSE,FALSE,TRUE,FALSE
+17,Ya Me Enteré,Reik,Ninguno,México,Grupo,Masculino,Pop latino,2016-03-11,2016,231,84,0.55,0.53,190,55,104.5,15,11,FALSE,FALSE,TRUE,FALSE
+18,Reggaetón Lento (Bailemos),CNCO,Ninguno,EE.UU.,Grupo,Masculino,Reguetón,2016-10-14,2016,222,94,0.76,0.84,1050,17,178.5,3,33,FALSE,FALSE,FALSE,FALSE
+19,Starboy,The Weeknd,Daft Punk,Canadá,Solista,Masculino,Pop en inglés,2016-09-22,2016,230,186,0.68,0.59,3100,3,93.0,14,15,TRUE,TRUE,FALSE,FALSE
+20,Chantaje,Shakira,Maluma,Colombia,Solista,Femenino,Reguetón,2016-10-28,2016,196,102,0.85,0.55,1150,15,172.5,1,32,TRUE,FALSE,FALSE,FALSE
+21,Shape of You,Ed Sheeran,Ninguno,Reino Unido,Solista,Masculino,Pop en inglés,2017-01-06,2017,233,96,0.83,0.65,4100,2,82.0,5,30,FALSE,FALSE,FALSE,FALSE
+22,Despacito,Luis Fonsi,Daddy Yankee,Puerto Rico,Solista,Masculino,Reguetón,2017-01-13,2017,229,89,0.66,0.79,2150,9,193.5,1,46,TRUE,FALSE,FALSE,FALSE
+23,Felices los 4,Maluma,Ninguno,Colombia,Solista,Masculino,Reguetón,2017-04-21,2017,229,94,0.76,0.74,1300,15,195.0,1,38,FALSE,TRUE,FALSE,FALSE
+24,Me Enamoré,Shakira,Ninguno,Colombia,Solista,Femenino,Pop latino,2017-05-26,2017,230,104,0.82,0.71,620,13,80.6,6,17,FALSE,FALSE,FALSE,FALSE
+25,Mi Gente,J Balvin,Willy William,Colombia,Solista,Masculino,Reguetón,2017-06-30,2017,189,105,0.55,0.70,1700,10,170.0,1,31,TRUE,FALSE,FALSE,FALSE
+26,Mayores,Becky G,Bad Bunny,EE.UU.,Solista,Femenino,Reguetón,2017-07-14,2017,202,94,0.77,0.76,760,20,152.0,4,25,TRUE,TRUE,TRUE,FALSE
+27,Adiós Amor,Christian Nodal,Ninguno,México,Solista,Masculino,Regional mexicano,2017-01-27,2017,204,129,0.56,0.50,420,66,277.2,2,52,FALSE,FALSE,TRUE,FALSE
+28,Robarte un Beso,Carlos Vives,Sebastián Yatra,Colombia,Solista,Masculino,Pop latino,2017-06-16,2017,194,92,0.70,0.79,700,14,98.0,4,26,TRUE,FALSE,FALSE,FALSE
+29,Amárrame,Mon Laferte,Juanes,Chile,Solista,Femenino,Pop latino,2017-04-07,2017,207,98,0.73,0.66,210,49,102.9,13,15,TRUE,FALSE,FALSE,FALSE
+30,Escápate Conmigo,Wisin,Ozuna,Puerto Rico,Solista,Masculino,Reguetón,2017-03-03,2017,232,92,0.86,0.86,980,16,156.8,2,28,TRUE,FALSE,FALSE,FALSE
+31,Se Preparó,Ozuna,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2017-02-17,2017,207,92,0.77,0.71,560,15,84.0,7,16,FALSE,FALSE,FALSE,FALSE
+32,Tú Sí Sabes Quererme,Natalia Lafourcade,Los Macorinos,México,Solista,Femenino,Pop latino,2017-05-19,2017,218,76,0.52,0.34,230,57,131.1,16,10,TRUE,FALSE,TRUE,FALSE
+33,Échame la Culpa,Luis Fonsi,Demi Lovato,Puerto Rico,Solista,Masculino,Pop latino,2017-11-17,2017,174,96,0.73,0.89,1250,11,137.5,2,29,TRUE,FALSE,FALSE,FALSE
+34,Criminal,Natti Natasha,Ozuna,República Dominicana,Solista,Femenino,Reguetón,2017-09-08,2017,232,80,0.81,0.81,820,14,114.8,5,22,TRUE,FALSE,FALSE,FALSE
+35,Dura,Daddy Yankee,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2018-01-18,2018,200,95,0.79,0.85,860,13,111.8,2,27,FALSE,FALSE,FALSE,FALSE
+36,Me Niego,Reik,Ozuna / Wisin,México,Grupo,Masculino,Pop latino,2018-01-19,2018,221,94,0.78,0.77,1100,34,374.0,1,44,TRUE,FALSE,TRUE,FALSE
+37,X (Equis),Nicky Jam,J Balvin,Puerto Rico,Solista,Masculino,Reguetón,2018-03-01,2018,192,90,0.62,0.78,1400,13,182.0,2,30,TRUE,FALSE,FALSE,FALSE
+38,Te Boté (Remix),Nio Garcia,Casper Mágico / Darell / Nicky Jam / Ozuna / Bad Bunny,Puerto Rico,Solista,Masculino,Reguetón,2018-04-13,2018,417,97,0.90,0.68,1500,16,240.0,1,40,TRUE,TRUE,FALSE,FALSE
+39,Sin Pijama,Becky G,Natti Natasha,EE.UU.,Solista,Femenino,Reguetón,2018-04-20,2018,188,94,0.79,0.75,1050,19,199.5,2,33,TRUE,FALSE,TRUE,FALSE
+40,"1, 2, 3",Sofía Reyes,Jason Derulo / De La Ghetto,México,Solista,Femenino,Pop latino,2018-02-16,2018,201,95,0.79,0.78,560,24,134.4,7,19,TRUE,FALSE,TRUE,FALSE
+41,Calma (Remix),Pedro Capó,Farruko,Puerto Rico,Solista,Masculino,Pop latino,2018-10-05,2018,238,127,0.81,0.70,1150,17,195.5,1,39,TRUE,FALSE,FALSE,FALSE
+42,De Los Besos Que Te Di,Christian Nodal,Ninguno,México,Solista,Masculino,Regional mexicano,2018-05-11,2018,194,130,0.55,0.52,360,67,241.2,3,35,FALSE,FALSE,TRUE,FALSE
+43,Nunca Es Suficiente,Los Ángeles Azules,Natalia Lafourcade,México,Grupo,Masculino,Tropical,2018-04-27,2018,263,96,0.75,0.59,730,58,423.4,1,58,TRUE,FALSE,TRUE,FALSE
+44,Azul,Zoé,Ninguno,México,Grupo,Masculino,Rock/Alternativo,2018-08-24,2018,251,112,0.49,0.63,120,61,73.2,22,8,FALSE,FALSE,TRUE,FALSE
+45,Taki Taki,DJ Snake,Selena Gomez / Ozuna / Cardi B,Francia,Solista,Masculino,Reguetón,2018-09-28,2018,213,96,0.84,0.79,1900,8,152.0,1,27,TRUE,TRUE,FALSE,FALSE
+46,Mía,Bad Bunny,Drake,Puerto Rico,Solista,Masculino,Reguetón,2018-10-11,2018,210,97,0.82,0.67,1300,12,156.0,2,24,TRUE,TRUE,FALSE,FALSE
+47,Con Calma,Daddy Yankee,Snow,Puerto Rico,Solista,Masculino,Reguetón,2019-01-24,2019,193,94,0.74,0.86,1600,11,176.0,1,31,TRUE,FALSE,FALSE,FALSE
+48,Secreto,Anuel AA,Karol G,Puerto Rico,Solista,Masculino,Reguetón,2019-01-18,2019,258,92,0.80,0.80,1000,14,140.0,3,23,TRUE,TRUE,FALSE,FALSE
+49,Con Altura,Rosalía,J Balvin / El Guincho,España,Solista,Femenino,Reguetón,2019-03-28,2019,162,98,0.88,0.69,1250,9,112.5,4,20,TRUE,FALSE,FALSE,FALSE
+50,Bad Guy,Billie Eilish,Ninguno,EE.UU.,Solista,Femenino,Pop en inglés,2019-03-29,2019,194,135,0.70,0.43,2900,4,116.0,3,28,FALSE,FALSE,FALSE,TRUE
+51,Callaíta,Bad Bunny,Tainy,Puerto Rico,Solista,Masculino,Reguetón,2019-05-31,2019,251,176,0.61,0.62,1150,15,172.5,1,30,TRUE,TRUE,FALSE,FALSE
+52,La Canción,J Balvin,Bad Bunny,Colombia,Solista,Masculino,Reguetón,2019-06-28,2019,243,176,0.75,0.65,900,15,135.0,2,26,TRUE,FALSE,FALSE,FALSE
+53,China,Anuel AA,Daddy Yankee / Karol G / Ozuna / J Balvin,Puerto Rico,Solista,Masculino,Reguetón,2019-07-19,2019,302,105,0.79,0.81,1150,15,172.5,1,27,TRUE,TRUE,FALSE,FALSE
+54,Otro Trago,Sech,Darell,Panamá,Solista,Masculino,Reguetón,2019-04-26,2019,226,176,0.75,0.70,1300,18,234.0,1,36,TRUE,TRUE,FALSE,FALSE
+55,Amor Tumbado,Natanael Cano,Ninguno,México,Solista,Masculino,Corridos tumbados,2019-06-14,2019,196,140,0.62,0.56,260,62,161.2,9,22,FALSE,TRUE,TRUE,FALSE
+56,Mañana Es Too Late,Jesse & Joy,J Balvin,México,Dúo,Mixto,Pop latino,2019-03-15,2019,205,96,0.76,0.68,230,45,103.5,10,14,TRUE,FALSE,TRUE,FALSE
+57,Mala Fama,Danna Paola,Ninguno,México,Solista,Femenino,Pop latino,2019-10-04,2019,189,92,0.80,0.70,150,54,81.0,17,12,FALSE,FALSE,TRUE,TRUE
+58,Tutu,Camilo,Pedro Capó,Colombia,Solista,Masculino,Pop latino,2019-08-02,2019,194,160,0.73,0.63,640,22,140.8,2,29,TRUE,FALSE,FALSE,TRUE
+59,Cruel Summer,Taylor Swift,Ninguno,EE.UU.,Solista,Femenino,Pop en inglés,2019-08-23,2019,178,170,0.55,0.70,2800,5,140.0,6,24,FALSE,FALSE,FALSE,TRUE
+60,Tusa,Karol G,Nicki Minaj,Colombia,Solista,Femenino,Reguetón,2019-11-07,2019,201,101,0.80,0.72,1550,14,217.0,1,42,TRUE,TRUE,FALSE,TRUE
+61,Vete,Bad Bunny,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2019-11-22,2019,192,92,0.67,0.74,640,15,96.0,3,18,FALSE,TRUE,FALSE,FALSE
+62,Blinding Lights,The Weeknd,Ninguno,Canadá,Solista,Masculino,Pop en inglés,2019-11-29,2019,200,171,0.51,0.73,4900,3,147.0,4,48,FALSE,FALSE,FALSE,TRUE
+63,Yo Perreo Sola,Bad Bunny,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2020-02-29,2020,172,98,0.86,0.75,1200,14,168.0,1,28,FALSE,TRUE,FALSE,TRUE
+64,Safaera,Bad Bunny,Jowell & Randy / Ñengo Flow,Puerto Rico,Solista,Masculino,Reguetón,2020-02-29,2020,295,116,0.61,0.83,1150,13,149.5,2,26,TRUE,TRUE,FALSE,TRUE
+65,Tattoo,Rauw Alejandro,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2020-03-27,2020,203,100,0.74,0.68,820,17,139.4,3,25,FALSE,FALSE,FALSE,TRUE
+66,Levitating,Dua Lipa,Ninguno,Reino Unido,Solista,Femenino,Pop en inglés,2020-03-27,2020,203,103,0.70,0.83,2500,3,75.0,12,14,FALSE,FALSE,FALSE,TRUE
+67,Hawái,Maluma,Ninguno,Colombia,Solista,Masculino,Reguetón,2020-07-30,2020,199,180,0.68,0.60,1150,18,207.0,1,31,FALSE,FALSE,FALSE,TRUE
+68,Vida de Rico,Camilo,Ninguno,Colombia,Solista,Masculino,Pop latino,2020-09-10,2020,177,86,0.79,0.53,750,24,180.0,1,34,FALSE,FALSE,FALSE,TRUE
+69,Relación,Sech,Ninguno,Panamá,Solista,Masculino,Reguetón,2020-01-31,2020,213,93,0.80,0.65,700,17,119.0,2,22,FALSE,FALSE,FALSE,TRUE
+70,El Tóxico,Grupo Firme,Carín León,México,Grupo,Masculino,Regional mexicano,2020-10-16,2020,197,95,0.64,0.66,250,70,175.0,4,26,TRUE,TRUE,TRUE,FALSE
+71,Dime Cómo Quieres,Christian Nodal,Ángela Aguilar,México,Solista,Masculino,Regional mexicano,2020-10-29,2020,181,117,0.52,0.46,380,63,239.4,1,33,TRUE,FALSE,TRUE,FALSE
+72,Bichota,Karol G,Ninguno,Colombia,Solista,Femenino,Reguetón,2020-10-23,2020,178,82,0.86,0.67,1000,16,160.0,2,25,FALSE,TRUE,FALSE,TRUE
+73,Dakiti,Bad Bunny,Jhay Cortez,Puerto Rico,Solista,Masculino,Reguetón,2020-10-30,2020,205,110,0.73,0.57,1800,13,234.0,1,39,TRUE,TRUE,FALSE,TRUE
+74,Telepatía,Kali Uchis,Ninguno,EE.UU.,Solista,Femenino,Pop latino,2020-12-04,2020,161,84,0.65,0.52,1450,16,232.0,2,37,FALSE,FALSE,FALSE,TRUE
+75,Bandido,Myke Towers,Juhn,Puerto Rico,Solista,Masculino,Reguetón,2020-12-10,2020,232,108,0.71,0.80,800,19,152.0,2,28,TRUE,TRUE,FALSE,TRUE
+76,Botella Tras Botella,Gera MX,Christian Nodal,México,Solista,Masculino,Regional mexicano,2021-04-23,2021,179,123,0.60,0.62,480,64,307.2,1,40,TRUE,TRUE,TRUE,TRUE
+77,Todo de Ti,Rauw Alejandro,Ninguno,Puerto Rico,Solista,Masculino,Pop latino,2021-05-20,2021,199,128,0.78,0.72,1700,13,221.0,1,43,FALSE,FALSE,FALSE,TRUE
+78,Pepas,Farruko,Ninguno,Puerto Rico,Solista,Masculino,Urbano latino,2021-06-24,2021,287,130,0.76,0.77,1250,15,187.5,1,35,FALSE,FALSE,FALSE,TRUE
+79,Stay,The Kid LAROI,Justin Bieber,Australia,Solista,Masculino,Pop en inglés,2021-07-09,2021,141,170,0.59,0.76,3600,3,108.0,3,29,TRUE,TRUE,FALSE,TRUE
+80,Desesperados,Rauw Alejandro,Chencho Corleone,Puerto Rico,Solista,Masculino,Reguetón,2021-07-29,2021,225,92,0.87,0.70,900,14,126.0,4,21,TRUE,TRUE,FALSE,TRUE
+81,Volví,Aventura,Bad Bunny,EE.UU.,Grupo,Masculino,Tropical,2021-08-12,2021,230,126,0.72,0.71,750,17,127.5,2,24,TRUE,FALSE,FALSE,FALSE
+82,Ya Supérame,Grupo Firme,Ninguno,México,Grupo,Masculino,Regional mexicano,2021-03-05,2021,192,101,0.61,0.65,330,69,227.7,2,31,FALSE,FALSE,TRUE,FALSE
+83,Por las Noches,Peso Pluma,Ninguno,México,Solista,Masculino,Corridos tumbados,2021-07-23,2021,175,136,0.64,0.55,560,47,263.2,3,30,FALSE,TRUE,TRUE,TRUE
+84,Jugaste y Sufrí,Eslabon Armado,DannyLux,EE.UU.,Grupo,Masculino,Regional mexicano,2021-10-01,2021,225,140,0.50,0.36,620,46,285.2,2,34,TRUE,FALSE,TRUE,TRUE
+85,Pareja del Año,Sebastián Yatra,Myke Towers,Colombia,Solista,Masculino,Pop latino,2021-03-11,2021,193,168,0.70,0.77,820,18,147.6,2,27,TRUE,FALSE,FALSE,TRUE
+86,Tacones Rojos,Sebastián Yatra,Ninguno,Colombia,Solista,Masculino,Pop latino,2021-10-22,2021,174,123,0.75,0.88,680,20,136.0,3,24,FALSE,FALSE,FALSE,TRUE
+87,Lo Siento BB:/,Tainy,Bad Bunny / Julieta Venegas,Puerto Rico,Solista,Masculino,Rock/Alternativo,2021-10-05,2021,207,175,0.64,0.57,520,19,98.8,6,15,TRUE,FALSE,FALSE,FALSE
+88,Mamiii,Becky G,Karol G,EE.UU.,Solista,Femenino,Reguetón,2022-02-10,2022,226,94,0.84,0.70,1000,18,180.0,1,33,TRUE,FALSE,TRUE,TRUE
+89,Ya No Somos Ni Seremos,Christian Nodal,Ninguno,México,Solista,Masculino,Regional mexicano,2022-03-25,2022,177,135,0.50,0.42,410,68,278.8,1,29,FALSE,FALSE,TRUE,TRUE
+90,As It Was,Harry Styles,Ninguno,Reino Unido,Solista,Masculino,Pop en inglés,2022-04-01,2022,167,174,0.52,0.73,3900,3,117.0,3,36,FALSE,FALSE,FALSE,TRUE
+91,Provenza,Karol G,Ninguno,Colombia,Solista,Femenino,Reguetón,2022-04-21,2022,210,111,0.87,0.52,1350,16,216.0,2,34,FALSE,FALSE,FALSE,TRUE
+92,Te Felicito,Shakira,Rauw Alejandro,Colombia,Solista,Femenino,Pop latino,2022-04-21,2022,172,174,0.70,0.69,850,15,127.5,2,22,TRUE,FALSE,FALSE,TRUE
+93,Tití Me Preguntó,Bad Bunny,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2022-05-06,2022,243,107,0.65,0.72,2000,13,260.0,1,48,FALSE,TRUE,FALSE,TRUE
+94,Me Porto Bonito,Bad Bunny,Chencho Corleone,Puerto Rico,Solista,Masculino,Reguetón,2022-05-06,2022,178,92,0.91,0.71,2100,13,273.0,1,52,TRUE,TRUE,FALSE,TRUE
+95,Ojitos Lindos,Bad Bunny,Bomba Estéreo,Puerto Rico,Solista,Masculino,Pop latino,2022-05-06,2022,258,80,0.65,0.69,1450,14,203.0,1,41,TRUE,FALSE,FALSE,TRUE
+96,Moscow Mule,Bad Bunny,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2022-05-06,2022,245,100,0.80,0.66,1250,13,162.5,2,30,FALSE,TRUE,FALSE,FALSE
+97,Neverita,Bad Bunny,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2022-05-06,2022,173,122,0.88,0.47,900,13,117.0,4,24,FALSE,FALSE,FALSE,FALSE
+98,La Bachata,Manuel Turizo,Ninguno,Colombia,Solista,Masculino,Tropical,2022-05-26,2022,162,125,0.84,0.68,1500,16,240.0,1,44,FALSE,FALSE,FALSE,TRUE
+99,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,Quevedo,Argentina,Solista,Masculino,Urbano latino,2022-07-06,2022,198,128,0.62,0.78,1700,11,187.0,1,33,TRUE,FALSE,FALSE,TRUE
+100,Despechá,Rosalía,Ninguno,España,Solista,Femenino,Tropical,2022-07-28,2022,157,130,0.92,0.62,950,12,114.0,3,22,FALSE,FALSE,FALSE,TRUE
+101,Primera Cita,Carín León,Ninguno,México,Solista,Masculino,Regional mexicano,2022-02-25,2022,198,92,0.58,0.47,520,64,332.8,2,40,FALSE,FALSE,TRUE,TRUE
+102,Normal,Feid,Ninguno,Colombia,Solista,Masculino,Reguetón,2022-04-29,2022,171,172,0.78,0.64,750,14,105.0,5,19,FALSE,TRUE,FALSE,TRUE
+103,Malas Decisiones,Kenia Os,Ninguno,México,Solista,Femenino,Reguetón,2022-03-18,2022,173,95,0.81,0.70,180,66,118.8,9,16,FALSE,FALSE,TRUE,TRUE
+104,Está Dañada,Ivan Cornejo,Ninguno,EE.UU.,Solista,Masculino,Regional mexicano,2022-07-22,2022,184,126,0.55,0.38,720,44,316.8,2,38,FALSE,FALSE,TRUE,TRUE
+105,Soy El Único,Yahritza y Su Esencia,Ninguno,EE.UU.,Grupo,Mixto,Regional mexicano,2022-03-25,2022,220,144,0.46,0.33,380,51,193.8,3,25,FALSE,FALSE,TRUE,TRUE
+106,No Se Va,Grupo Frontera,Ninguno,EE.UU.,Grupo,Masculino,Regional mexicano,2022-04-14,2022,188,92,0.70,0.62,620,55,341.0,1,42,FALSE,FALSE,TRUE,TRUE
+107,El Rescate,Grupo Marca Registrada,Junior H,México,Grupo,Masculino,Corridos tumbados,2022-09-16,2022,191,82,0.66,0.70,290,63,182.7,6,21,TRUE,TRUE,TRUE,FALSE
+108,Anti-Hero,Taylor Swift,Ninguno,EE.UU.,Solista,Femenino,Pop en inglés,2022-10-21,2022,200,97,0.64,0.64,1900,4,76.0,8,12,FALSE,FALSE,FALSE,TRUE
+109,Hey Mor,Ozuna,Feid,Puerto Rico,Solista,Masculino,Reguetón,2022-10-06,2022,196,92,0.90,0.67,750,15,112.5,3,20,TRUE,FALSE,FALSE,TRUE
+110,AMG,Natanael Cano,Peso Pluma / Gabito Ballesteros,México,Solista,Masculino,Corridos tumbados,2022-11-17,2022,176,141,0.66,0.62,560,58,324.8,2,36,TRUE,TRUE,TRUE,TRUE
+111,Que Vuelvas,Carín León,Grupo Frontera,México,Solista,Masculino,Regional mexicano,2022-12-08,2022,183,99,0.66,0.58,700,54,378.0,1,45,TRUE,FALSE,TRUE,TRUE
+112,Bebe Dame,Fuerza Regida,Grupo Frontera,EE.UU.,Grupo,Masculino,Regional mexicano,2022-12-16,2022,209,96,0.62,0.56,780,52,405.6,1,47,TRUE,FALSE,TRUE,TRUE
+113,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap,Shakira,Argentina,Solista,Masculino,Urbano latino,2023-01-11,2023,218,122,0.78,0.63,1300,13,169.0,1,26,TRUE,TRUE,FALSE,TRUE
+114,PRC,Peso Pluma,Natanael Cano,México,Solista,Masculino,Corridos tumbados,2023-01-23,2023,184,138,0.75,0.63,650,56,364.0,1,40,TRUE,TRUE,TRUE,TRUE
+115,El Azul,Junior H,Peso Pluma,México,Solista,Masculino,Corridos tumbados,2023-02-10,2023,187,144,0.56,0.48,680,55,374.0,1,42,TRUE,TRUE,TRUE,TRUE
+116,TQG,Karol G,Shakira,Colombia,Solista,Femenino,Reguetón,2023-02-24,2023,198,180,0.72,0.63,1150,14,161.0,1,27,TRUE,TRUE,FALSE,TRUE
+117,Ella Baila Sola,Eslabon Armado,Peso Pluma,EE.UU.,Grupo,Masculino,Corridos tumbados,2023-03-16,2023,165,148,0.67,0.76,1350,38,513.0,1,55,TRUE,FALSE,TRUE,TRUE
+118,La Bebé (Remix),Yng Lvcas,Peso Pluma,México,Solista,Masculino,Reguetón,2023-03-17,2023,234,95,0.81,0.67,900,33,297.0,1,38,TRUE,TRUE,TRUE,TRUE
+119,LALA,Myke Towers,Ninguno,Puerto Rico,Solista,Masculino,Reguetón,2023-03-23,2023,197,92,0.71,0.74,1300,14,182.0,1,30,FALSE,TRUE,FALSE,TRUE
+120,Un x100to,Grupo Frontera,Bad Bunny,EE.UU.,Grupo,Masculino,Regional mexicano,2023-04-17,2023,194,128,0.57,0.53,1050,35,367.5,1,41,TRUE,FALSE,TRUE,TRUE
+121,Where She Goes,Bad Bunny,Ninguno,Puerto Rico,Solista,Masculino,Urbano latino,2023-05-18,2023,231,143,0.65,0.80,1250,13,162.5,1,25,FALSE,TRUE,FALSE,TRUE
+122,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap,Peso Pluma,Argentina,Solista,Masculino,Corridos tumbados,2023-05-31,2023,186,129,0.77,0.68,720,31,223.2,1,23,TRUE,TRUE,FALSE,TRUE
+123,Lady Gaga,Peso Pluma,Gabito Ballesteros / Junior H,México,Solista,Masculino,Corridos tumbados,2023-06-22,2023,216,144,0.68,0.55,700,50,350.0,1,37,TRUE,TRUE,TRUE,TRUE
+124,Rosa Pastel,Peso Pluma,Jasiel Núñez,México,Solista,Masculino,Corridos tumbados,2023-06-22,2023,186,142,0.60,0.52,520,54,280.8,2,29,TRUE,FALSE,TRUE,TRUE
+125,Columbia,Quevedo,Ninguno,España,Solista,Masculino,Urbano latino,2023-07-07,2023,186,100,0.67,0.79,900,13,117.0,3,20,FALSE,FALSE,FALSE,TRUE
+126,Qlona,Karol G,Peso Pluma,Colombia,Solista,Femenino,Reguetón,2023-08-11,2023,172,96,0.88,0.72,1000,24,240.0,1,32,TRUE,TRUE,FALSE,TRUE
+127,Según Quién,Maluma,Carín León,Colombia,Solista,Masculino,Regional mexicano,2023-06-29,2023,231,98,0.60,0.56,560,46,257.6,2,28,TRUE,FALSE,FALSE,TRUE
+128,Monaco,Bad Bunny,Ninguno,Puerto Rico,Solista,Masculino,Urbano latino,2023-10-13,2023,267,140,0.68,0.61,1000,13,130.0,1,22,FALSE,TRUE,FALSE,TRUE
+129,El Gordo Trae el Mando,Chino Pacas,Ninguno,México,Solista,Masculino,Corridos tumbados,2023-02-03,2023,173,92,0.70,0.57,520,60,312.0,2,33,FALSE,TRUE,TRUE,TRUE
+130,TQM,Fuerza Regida,Ninguno,EE.UU.,Grupo,Masculino,Regional mexicano,2023-05-12,2023,168,104,0.75,0.64,480,55,264.0,2,30,FALSE
